@@ -3,9 +3,14 @@
 ## Intention
 
 This program intends to remove strings containing 'oggy' from a list of strings.
+"oggy" is bad cat and it must be removed
 
 ## Method
 
-The code doesn't work according to the intention. Make it succeed.
+The code works clealy.
 
-Don't forget to update this file after fixing the code.
+updated the code.
+
+## what is done
+
+edit a piece of code.
