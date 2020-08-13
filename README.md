@@ -7,7 +7,7 @@ This program intends to remove strings containing 'oggy' from a list of strings.
 
 ## Method
 
-The code works clealy.
+The code works clearly.
 
 updated the code.
 
